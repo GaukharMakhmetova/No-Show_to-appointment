@@ -7,7 +7,6 @@ While conduction this research the question that will be targeted to be answered
 3. What is the importance of the features?
 4. How does the presence of outliers change the prediction performance?
 5. How do the different sampling techniques affect the prediction of no-show to appointments?
-Makhmetova 3
 6. How do the different feature selection methods affect the prediction of no-show to appointments?
 7. How does the prediction performance change for more complex analytical models?
 8. What is most efficient strategy outline to increase the performance of no-show to appointments prediction?
