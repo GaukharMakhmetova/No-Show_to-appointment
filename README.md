@@ -1,0 +1,13 @@
+# No-Show_to-appointment
+
+The problems in the health industry are the ones of highest importance and resolving the issues that are present in hospitals around the globe is crucial for sustaining strong health infrastructure and boosting the quality of service provided to people. One of the most disruptive problems that healthcare industry faces nowadays is a high proportion of the appointments scheduled in clinic being cancelled because of patients not showing up for them. No-shows of patients have a significant impact on healthcare systems, including lower clinical efficiency, higher costs, limited access to care and lower health outcomes. Negative effects are also felt by patients who keep their appointments, such as dissatisfaction with long lead time and perception of the overall decrease in service quality. In recent research conducted by Harris & Samorani (2020), the no-show rate was stated to be 23% on average, this variability in patient’s attendance makes it harder for clinics to provide crucially service for those in need in an effective rate. Research shows that hospitals try to resolve the issue by overbooking appointments slots, which means they schedule more than 1 person for the same time slot. However, it is hard to believe that this is the best solution that can be found to tackle this problem. Moreover, patient interventions are attempted to reduce no-show rates, with phone calls, short message service (SMS) texts, and emails being particularly impactful. However, in spite of all these initiatives, the no-show rates cited for USA ranged from 5% to as high as 55% (Lenzi, Ben, & Stein, 2019). Hospitals with high percentage of no-show rate should reallocate their resources in a right way. Therefore, the aim of this research is to identify main reasons behind patients’ no-shows to appointments by evaluating trends between patients’ information and no-show rate.
+While conduction this research the question that will be targeted to be answered are following:
+1. Is it possible to predict no-show to appointment by the use of machine learning techniques?
+2. What are the important features in order to predict the no-show to appointment?
+3. What is the importance of the features?
+4. How does the presence of outliers change the prediction performance?
+5. How do the different sampling techniques affect the prediction of no-show to appointments?
+Makhmetova 3
+6. How do the different feature selection methods affect the prediction of no-show to appointments?
+7. How does the prediction performance change for more complex analytical models?
+8. What is most efficient strategy outline to increase the performance of no-show to appointments prediction?
